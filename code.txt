@@ -1,6 +1,6 @@
 public static void displayName (String name) {
-if(name.equalsIgnoreCase("Branch A") {
-System.out.println("I am displaying from Branch A");
-}
+if((name.equalsIgnoreCase("Branch B") || name.equalsIgnoreCase("Branch A")) {
+System.out.println("I am displaying from " + name);
 
+}
 }

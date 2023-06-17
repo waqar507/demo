@@ -1,1 +1,2 @@
 Hello I am from Branch B
+Hello I am from Branch A
